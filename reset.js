@@ -1,5 +1,3 @@
-reset.js
-
 // Removes the team.html file from the dist/ folder.
 // Used in `npm run reset` script
 
